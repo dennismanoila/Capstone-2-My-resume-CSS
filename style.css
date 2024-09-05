@@ -893,10 +893,11 @@ body{
         grid-column: 1;
         display:flex;
         justify-content: center;
+        height: auto;
     }
     .football>img{
         width:100%;
-        height:120%;
+        height:90%;
     }
     .ski>img{
         height: 100%;
